@@ -15,5 +15,6 @@ Repository ini berisi kumpulan hasil pembelajaran selama perkuliahan. Hanya menc
 
 ## 🚀 Author
 [Muhamad Bayu Fadayan](https://github.com/bayufadayan)
+
 [Back to Github Repo](https://github.com/bayufadayan/academic-archive)
 

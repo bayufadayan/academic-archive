@@ -1,6 +1,8 @@
 # cpp-dasar
 Sebuah repositori yang berisi kumpulan program atau tugas yang saya kerjakan selama semester 1 pada mata kuliah Algoritma dan Pemrograman Dasar
 
+[Lihat Repo ini](https://github.com/bayufadayan/academic-archive/tree/main/Semester%201/Algoritma%20Dasar%20(cpp-dasar)) 
+
 ## List of Contents
 - [01-Introduction](https://bayufadayan.github.io/academic-archive/Semester%201/Algoritma%20Dasar%20(cpp-dasar)/01-Introduction)  
 - [02-Biodata](https://bayufadayan.github.io/academic-archive/Semester%201/Algoritma%20Dasar%20(cpp-dasar)/02-Biodata)  
