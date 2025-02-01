@@ -12,7 +12,7 @@ Sebuah repositori yang berisi kumpulan program atau tugas yang saya kerjakan sel
 - [06-Perhitungan Hidrostatis, Lingkaran, dan Keuangan](https://bayufadayan.github.io/academic-archive/Semester%201/Algoritma%20Dasar%20(cpp-dasar)/06-Perhitungan%20Hidrostatis%2C%20Lingkaran%2C%20dan%20Keuangan)  
 - [07-Perhitungan Energi Kinetik dan Potensial (UTP)](https://github.com/bayufadayan/academic-archive/tree/main/Semester%201/Algoritma%20Dasar%20(cpp-dasar)/07-Perhitungan%20Energi%20Kinetik%20dan%20Potensial%20(UTP))  
 - [08-Program Ganjil Genap](https://bayufadayan.github.io/academic-archive/Semester%201/Algoritma%20Dasar%20(cpp-dasar)/08-Program%20Ganjil%20Genap)  
-- [09-Pendeteksi Bilangan Positif, Negatif, dan Netral](https://bayufadayan.github.io/academic-archive/Semester%201/Algoritma%20Dasar%20(cpp-dasar)/09-Pendeteksi%20Bilangan%20Positif%2C%20Negatif%2C%20dan%20Netral)  
+- [09-Pendeteksi Bilangan Positif, Negatif, dan Netral](https://bayufadayan.github.io/academic-archive/Semester%201/Algoritma%20Dasar%20(cpp-dasar)/09-Pendeteksi%20BIlangan%20Positif%2C%20Negatif%2C%20dan%20Netral)  
 - [10-Konversi Suhu](https://bayufadayan.github.io/academic-archive/Semester%201/Algoritma%20Dasar%20(cpp-dasar)/10-Konversi%20Suhu)  
 - [11-Looping Tugas 1](https://bayufadayan.github.io/academic-archive/Semester%201/Algoritma%20Dasar%20(cpp-dasar)/11-Looping%20Tugas%201)  
 - [12-Looping Tugas 2](https://bayufadayan.github.io/academic-archive/Semester%201/Algoritma%20Dasar%20(cpp-dasar)/12-Looping%20Tugas%202)  
