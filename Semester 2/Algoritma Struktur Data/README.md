@@ -17,4 +17,4 @@ berisi sekumpulan program dan tugas tugas dari kuliah saya saat semester 2, khus
 - [11-Tree](https://bayufadayan.github.io/academic-archive/Semester%202/Algoritma%20Struktur%20Data/11-Tree)
 - [12-Tugas Graph dan Tree](https://bayufadayan.github.io/academic-archive/Semester%202/Algoritma%20Struktur%20Data/12-Tugas%20Graph%20dan%20Tree)
 - [13-String Manipulation](https://bayufadayan.github.io/academic-archive/Semester%202/Algoritma%20Struktur%20Data/13-String%20Manipulation)
-- [persiapan TA](https://bayufadayan.github.io/academic-archive/Semester%202/Algoritma%20Struktur%20Data/persiapan%20TA)
+- [persiapan TA](https://github.com/bayufadayan/academic-archive/tree/main/Semester%202/Algoritma%20Struktur%20Data/persiapan%20TA)
