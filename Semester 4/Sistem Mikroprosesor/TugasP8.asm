@@ -1,0 +1,21 @@
+MVI B, 100
+MVI C, 01
+
+MOV A, B
+RRC
+MOV D, A
+RRC
+MOV H, A
+
+MOV A, C
+RLC
+MOV E, A
+RLC
+MOV L, A
+
+ADD H
+STA 100
+HLT
+
+;Muhamad Bayu Fadayan
+;065121100

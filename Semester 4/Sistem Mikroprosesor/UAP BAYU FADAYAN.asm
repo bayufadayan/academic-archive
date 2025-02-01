@@ -1,0 +1,14 @@
+;Muhamad Bayu Fadayan
+;065121100
+;Nomer 1.B
+;42(10) x 9(10)
+
+MVI B, 2AH
+MVI C, 9H
+MOV A, B
+LABEL: ADD B
+DCR C
+JNZ LABEL
+MOV E, A
+STA 01
+HLT

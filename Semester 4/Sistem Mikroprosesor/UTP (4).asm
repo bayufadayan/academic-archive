@@ -1,0 +1,15 @@
+STA B
+LDA 100
+STA C
+LDA 101
+STA A
+LDA 102
+MOV A, B
+ADD C
+OUT 103H
+HLT
+
+;Muhamad Bayu Fadayan
+;065121100
+;Nomer 5
+;Maaf error ka

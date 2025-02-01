@@ -1,7 +1,7 @@
 
 # Academic Archive
 
-Repository ini berisi kumpulan hasil pembelajaran selama perkuliahan. Hanya mencakup kodingan daily learn dan tidak termasuk Project Akhir. Untuk melihat materi setiap semester, silakan cek daftar di bawah ini.
+Repository ini berisi kumpulan hasil pembelajaran selama perkuliahan. Hanya mencakup kodingan daily learn dan Beberapa Tugas Akhir
 
 
 ## List Semester

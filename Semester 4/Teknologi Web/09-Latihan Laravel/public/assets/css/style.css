@@ -1,0 +1,162 @@
+/* default untuk semua elemen */
+* {
+    margin: 0%; /* Menghilangkan margin default */
+    padding: 0%; /* Menghilangkan padding default */
+    box-sizing: border-box; /* Menetapkan box model ke border-box untuk memasukkan padding dan border ke dalam lebar dan tinggi elemen */
+    font-family: 'cozy', sans-serif; /* Menggunakan font default 'Poppins' atau font tanpa serif jika 'Poppins' tidak tersedia */
+}
+
+/* Mendefinisikan wajah font untuk font eksternal */
+@font-face {
+    font-family: 'candy'; /* Memberikan penamaaan untuk font eksternal */
+    src: url('font/Death\ Star.otf'); /* Mengarahkan ke file font eksternal di folder 'font' */
+}
+
+@font-face {
+    font-family: 'dream'; /* Memberikan penamaaan untuk font eksternal */
+    src: url('font/Action\ Comics.ttf'); /* Mengarahkan ke file font eksternal di folder 'font' */
+}
+@font-face {
+    font-family: 'cozy'; /* Memberikan penamaaan untuk font eksternal */
+    src: url('font/cozy\ caps.otf'); /* Mengarahkan ke file font eksternal di folder 'font' */
+}
+
+/* Gaya untuk elemen body */
+body {
+    background: #f9f9f9; /* Warna latar belakang halaman */
+    min-height: 100vh;  /* Set tinggi minimal sesuai viewport (viewport height) */
+    overflow-x: hidden; /* Sembunyikan scrollbar horizontal */
+}
+
+/* Gaya untuk elemen header */
+header {
+    position: absolute; /* Menempatkan elemen secara absolut di dalam tata letak dokumen */
+    top: 0; /* Jarak dari atas ke 0 */
+    left: 0; /* Jarak dari kiri ke 0 */
+    width: 100%; /* Lebar elemen 100% dari lebar tata letak parentnya */
+    padding: 30px 100px; /* Padding atas dan bawah 30px, padding kiri dan kanan 100px */
+    display: flex; /* Menggunakan tata letak flexbox  mengatur tata letak dan distribusi elemen-elemen anak secara lebih fleksibel dalam satu dimensi (entah itu secara horizontal atau vertikal).*/
+    justify-content: space-between; /* Membuat ruang di antara elemen-elemen */
+    align-content: center; /* secara vertikal */
+    z-index: 100; /* Menetapkan urutan tumpukan elemen */
+}
+
+/* Gaya untuk elemen logo */
+.logo {
+    font-family: 'Cozy', sans-serif; /* Menggunakan font 'Poppins' atau font tanpa serif jika 'Poppins' tidak tersedia */
+    font-size: 1.5em; /* Ukuran font 2em */
+    color: #e9c49a; /* Warna teks */
+    pointer-events: none; /* Menonaktifkan interaksi pointer/mouse pada elemen ini */
+}
+
+/* Gaya untuk tautan navigasi */
+.navigation a {
+    text-decoration: none; /* Menghilangkan garis bawah pada tautan */
+    color: #e9c49a; /* Warna teks tautan */
+    padding: 6px 15px; /* Padding atas dan bawah 6px, padding kiri dan kanan 15px */
+    border-radius: 20px; /* Sudut lengkung border */
+    margin: 0 10px; /* Margin di sekitar tautan */
+    font-weight: 600; /* Ketebalan teks tautan */
+}
+
+/* Gaya saat tautan navigasi dihover atau aktif */
+.navigation a:hover,
+.navigation a.active {
+    color: white; /* Warna teks saat dihover atau aktif */
+    background-color: #bd9f7d; /* Warna latar belakang saat dihover atau aktif */
+    transition: color 0.5s, background-color 0.5s; /* Efek transisi selama 0.5 detik untuk warna teks dan latar belakang */
+}
+
+/* Gaya untuk elemen home */
+.home {
+    position: relative; /* Menempatkan elemen relatif terhadap posisi normalnya */
+    display: flex; /* Menggunakan tata letak flexbox */
+    justify-content: center; /* Pusatkan secara horizontal */
+    align-items: center; /* Pusatkan secara vertikal */
+    height: 100vh; /* Tinggi elemen 100% dari viewport height */
+}
+
+/* Gaya untuk elemen teks dengan id 'text' atau kelas 'textime' */
+#text, .textime {
+    font-family: 'candy'; /* Menggunakan font eksternal dengan nama candy yang telah dibuat */
+    position: absolute; /* Menempatkan elemen secara absolut terhadap elemen parentnya */
+    font-size: 5em; /* Ukuran font 5em */
+    letter-spacing: 7px; /* Jarak antar huruf */
+    background-image: linear-gradient(
+        -250deg,
+        #c4930f 0%, /* Warna latar belakang gradient linear mulai dari 0% dengan warna coklat */
+        #ff8b06 29%, /* Menuju 29% dengan warna oranye */
+        #fca440 67%, /* Menuju 67% dengan warna kuning keemasan */
+        #e9c49a 100% /* Menuju 100% dengan warna kuning muda */
+    );
+    color: #fff; /* Warna teks putih */
+    background-size: 200% auto; /* Ukuran latar belakang */
+    background-clip: text; /* Menggunakan teks sebagai klip latar belakang */
+    -webkit-background-clip: text; /* Pengaturan khusus untuk browser WebKit */
+    -webkit-text-fill-color: transparent; /* Membuat warna teks transparan */
+    animation: textclip 2.5s linear infinite; /* Animasi menggunakan keyframes 'textclip' selama 2.5 detik secara linear dan berulang */
+}
+
+/* Gaya untuk elemen gambar dengan kelas 'gambar' */
+.gambar {
+    width: 100%; /* Lebar elemen 100% */
+    height: 650px; /* Tinggi elemen 650px */
+}
+
+/* Styling for the element with the ID 'about' */
+#about {
+    position: absolute; /* Menetapkan posisi elemen menjadi absolute */
+    background-image: url('../gambar/bg4.jpg'); /* Menggunakan gambar 'bg4.jpg' sebagai latar belakang */
+    background-repeat: no-repeat; /* Mencegah pengulangan gambar latar belakang */
+    background-size: cover; /* Mengatur ukuran gambar latar belakang agar menutupi seluruh elemen */
+    height: 650px; /* Menetapkan tinggi elemen menjadi 650 piksel */
+}
+
+/* Styling for elements with the class 'row' */
+.row {
+    display: flex; /* Mengubah tata letak elemen dengan kelas 'row' menjadi flex */
+}
+
+/* Styling for elements with the class 'sec' */
+.sec {
+    border-left: 6px dashed black; /* Menambahkan garis putus-putus sepanjang sisi kiri elemen dengan ketebalan 6 piksel dan warna hitam */
+    box-shadow: 0px 20px 10px 10px rgba(0, 0, 0, 0.5); /* Memberikan efek bayangan dengan perhitungan tertentu */
+    padding: 100px; /* Menambahkan ruang dalam sebanyak 100 piksel di sekeliling kontennya */
+    margin-left: 700px; /* Menetapkan margin sebelah kiri elemen sejauh 700 piksel dari tepi kiri halaman */
+    width: 50%; /* Menetapkan lebar elemen menjadi 50% dari lebar elemen induknya */
+    height: 650px; /* Menetapkan tinggi elemen menjadi 650 piksel */
+    background: #ffffff; /* Memberikan warna latar belakang elemen menjadi putih */
+}
+
+/* Styling for elements with the class 'sec' when hovered */
+.sec:hover {
+    transform: translateX(35px); /* Menggeser elemen secara horizontal sejauh 35 piksel saat dihover */
+    transition: all 1.5s; /* Menetapkan durasi transisi sebanyak 1.5 detik untuk semua perubahan properti */
+    box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25); /* Mengubah efek bayangan saat elemen dihover */
+}
+
+/* Styling for h2 elements inside elements with the class 'sec' */
+.sec h2 {
+    font-family: 'dream'; /* Menggunakan jenis huruf 'dream' untuk elemen h2 */
+    margin-top: 70px; /* Menetapkan margin atas sebanyak 70 piksel */
+    font-size: 2em; /* Menetapkan ukuran huruf sebanyak 2 em (relatif terhadap ukuran teks normal) */
+    color: black; /* Mengatur warna teks menjadi hitam */
+    margin-bottom: 10px; /* Menetapkan margin bawah sebanyak 10 piksel */
+    letter-spacing: 10px; /* Menetapkan jarak antar huruf sebanyak 10 piksel */
+    text-transform: uppercase; /* Mengubah semua teks menjadi huruf kapital */
+}
+
+/* Styling for p elements inside elements with the class 'sec' */
+.sec p {
+    font-family: 'cozy'; /* Menggunakan jenis huruf 'cozy' untuk elemen p */
+    font-weight: 600; /* Menetapkan ketebalan huruf sebanyak 600 (huruf tebal) */
+}
+
+
+
+/* Animasi keyframes untuk 'textclip' */
+@keyframes textclip {
+    to {
+        background-position: 200% center; /* Posisi latar belakang bergerak ke arah kanan (200%) */
+    }
+}

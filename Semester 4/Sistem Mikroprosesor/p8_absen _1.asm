@@ -1,0 +1,18 @@
+MVI B, 14H
+MOV A, B
+RRC
+RRC
+MOV D, A
+
+MVI C, 14H
+MOV A, C
+RLC
+RLC
+MOV E, A
+ADD D
+STA 02
+HLT
+
+;Muhamad Bayu Fadayan
+;065121100
+;CONTOH SOAL 2

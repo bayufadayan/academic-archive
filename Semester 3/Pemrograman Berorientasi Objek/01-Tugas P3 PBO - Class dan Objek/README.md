@@ -3,5 +3,5 @@ Default readme: A sample command-line application with an entrypoint in `bin/`, 
 in `lib/`, and example unit test in `test/`.
 
 ## Images
-![SSan](images/Class Diagram.jpg)
-![SSan](images/Running Program.png)
+![SSan](images/Class%20Diagram.jpg)
+![SSan](images/Running%20Program.png)

@@ -4,7 +4,6 @@ Repository ini berisi kumpulan hasil pembelajaran selama perkuliahan. Hanya menc
 [Lihat Repo ini](https://github.com/bayufadayan/academic-archive/tree/main/Semester%203/Pemrograman%20Berorientasi%20Objek) 
 
 ## Materi
-- [Semester 1](https://bayufadayan.github.io/academic-archive/Semester%201/)
 - [01-Tugas P3 PBO - Class dan Objek](https://github.com/bayufadayan/academic-archive/tree/main/Semester%203/Pemrograman%20Berorientasi%20Objek/01-Tugas%20P3%20PBO%20-%20Class%20dan%20Objek)
 - [02-Tugas P8 PBO - Flutter](https://github.com/bayufadayan/academic-archive/tree/main/Semester%203/Pemrograman%20Berorientasi%20Objek/02-Tugas%20P8%20PBO%20-%20Flutter)
 - [03-Introduction Dart](https://github.com/bayufadayan/academic-archive/tree/main/Semester%203/Pemrograman%20Berorientasi%20Objek/03-Introduction Dart)

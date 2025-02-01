@@ -1,0 +1,6 @@
+LDA 01
+MOV B, A
+LDA 02
+ADD B
+STA 03
+HLT

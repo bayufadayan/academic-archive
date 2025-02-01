@@ -1,0 +1,22 @@
+* {
+    color: brown;
+    padding: 0%;
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+}
+
+.device {
+    background-color: blueviolet;
+    color: blue;
+}
+
+#trash {
+    background-color: brown;
+}
+
+li {
+    color: forestgreen;
+}
