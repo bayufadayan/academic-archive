@@ -1,7 +1,7 @@
 # cpp-struktur-data
 berisi sekumpulan program dan tugas tugas dari kuliah saya saat semester 2, khususnya untuk mata kuliah algoritma dan struktur data
 
-[Lihat Repo ini](https://github.com/bayufadayan/academic-archive/tree/main/Semester%201/Algoritma%20Struktur%20Data) 
+[Lihat Repo ini](https://github.com/bayufadayan/academic-archive/tree/main/Semester%202/Algoritma%20Struktur%20Data) 
 
 ## List of Contents
 - [01-Fungsi Kembalian dan Operasi File](https://bayufadayan.github.io/academic-archive/Semester%202/Algoritma%20Struktur%20Data/01-Fungsi%20Kembalian%20dan%20Operasi%20File)
