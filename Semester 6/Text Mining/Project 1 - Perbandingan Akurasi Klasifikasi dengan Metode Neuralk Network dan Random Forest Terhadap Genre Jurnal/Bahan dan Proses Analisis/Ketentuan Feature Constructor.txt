@@ -1,0 +1,24 @@
+
+Sistem Cerdas
+in title.lower() : smart, rfid, iot, internet of things, miktokontroller, sistem cerdas, automasi, robot
+
+Socio Informatics
+in title.lower() :  sistem pendukung keputusan, rekomendasi, vikor, saw, simple additive, sistem penunjang keputusan, pemilihan, Višekriterijumsko Kompromisno, roc-moora, sentimen pembelajaran, sistem informasi, ahp, wp, pelatihan, geografis, sig, proses bisnis, bahasa, use case, uml, waterfall, sentimen pro
+
+in content : single channel multi phase
+
+Pemodelan
+in title.lower() :  penyebaran, naive bayes, classifier, simulasi, pemodelan spasial, jst, jaringan saraf tiruan, matematika, model cellular automata, numerik, susceptible infective, seirs,
+
+in content : mae, chart
+
+Arsitektur Jaringan
+in title.lower() : routing, arsitektur jaringan, ppdioo, jaringan komputer, network, local area network, ssl, keamanan, man, area network, 
+
+Multimedia
+in title.lower() :  aplikasi pembelajaran, media pembelajaran, augmented reality, vr, virtual reality, video, google sites, 3d, animasi, vilamil, game, permainan, ui/ux, 
+
+Non IT
+in title.lower() :  kimia, sejarah, agama, pembangunan
+
+else Non IT

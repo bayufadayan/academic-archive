@@ -1,0 +1,129 @@
+Judul :
+
+1. Rancang Bangun Aplikasi Pembelajaran Pengenalan Alat Musik Tradisional Bolaang Mongondow Berbasis Mobile
+2. Smart Card Berbasis RFID untuk Implementasi E-Parking System di Rumah Sakit Zahirah
+3. Pengembangan Media Pembelajaran Interaktif Sistem Tata Surya Menggunakan Metode Multimedia Development Life Cycle
+4. Sistem Pendukung Keputusan Rekomendasi Penginapan di Kawasan Pariwisata Guci Menggunakan Metode Vikor
+5. Implementasi Internet of Things Pada Sistem Pencarian Parkir Berbasis Mikrokontroller Node-MCU
+6. Penerapan Sistem Pendukung Keputusan pada Penerimaan Santri Baru dengan Metode Simple Additive Weighting (SAW) pada MTS Al Mahsyar Nurul Iman Tenggarong
+7. Sistem Penunjang Keputusan Pemilihan Pengurus OSIS menggunakan Metode Višekriterijumsko Kompromisno Rangiranje (VIKOR)
+8. Sistem Pendukung Keputusan Pemilihan Lahan Perkebunan Tanaman Lada Menggunakan Metode Simple Addtive Weighting Perbandingan Weighted Product Berbasis Web
+9. Sistem Pendukung Keputusan Rekomendasi Tanaman Obat Menggunakan ROC-MOORA
+10. Peramalan Stok Barang Percetakan dan ATK Menggunakan Single Moving Average
+11. Penerapan Metode Simple Additive Weighting Pada Sistem Pendukung Keputusan Pemberian Beasiswa di SMP Budi Luhur
+12. Analisis Sentimen Pembelajaran Tatap Muka dengan Apache SPARK
+13. Sistem Informasi Pengelolaan Arsip Surat Pada Dinas Pemberdayaan Masyarakat Dan Pemerintahan Desa Berbasis Web
+14. Implementasi Algoritma K-Means Untuk Analisis Penyebaran Kasus Konfirmasi Covid-19 di Kota Samarinda
+15. Sistem Informasi Administrasi Data Kependudukan Berbasis Web Pada Kantor Desa Benua Puhun
+16. Analisis Sistem Informasi Penjualan Toko Pakaian Happiness Menggunakan Soft System Methodology
+17. Mobile Augmented Reality Pengenalan Tanaman Dipterocarpaceae
+18. Pengembangan Media Pembelajaran IPS Di Sekolah Menengah Pertama
+19. Implementasi Contents Management System (CMS) Dalam Analisa dan Perancangan Sistem Informasi Kepegawaian Universitas Mulawarman
+20. Klasifikasi Senjata Tradisional Mandau Suku Dayak Menggunakan Metode Naive Bayes Classifier Berdasarkan Fitur Bentuk dan Tekstur
+21. Implementasi Teorema Naïve Bayes Pada Prediksi Prestasi Mahasiswa
+22. Sistem Pendukung Keputusan Penentuan Dosen Pembimbing Skripsi Menggunakan Metode Analytical Hierarchy Process (AHP) dan Weighted Product (WP)
+23. Rancang Bangun Media Pembelajaran Elektronika Analog Untuk Memahami Fungsi dan Karakteristik Op-Amp LM741
+24. Pengembangan Video Dokumenter (Kegiatan Mahasiswa) Di Lingkungan Informatika Universitas Mulawarman
+25. Video Company Profile Sebagai Media Promosi Sayuran Hidroponik Boekha Farm Samarinda
+26. ANALISIS KINERJA METODE ROUTING OSPF DAN RIP PADA MODELARSITEKTUR JARINGAN DI SMKN XYZ
+27. PERANCANGAN PENGEMBANGAN DESAIN ARSITEKTUR JARINGAN MENGGUNAKAN METODE PPDIOO
+28. PELATIHAN PEMBANGUNAN JARINGAN KOMPUTER DALAM PERENCANAAN ARSITEKTUR JARINGAN KOMPUTER KABUPATEN BANYUMAS
+29. TOP DOWN NETWORK DESIGN DALAM PERANCANGAN JARINGAN KOMPUTER PADA SMA NEGERI 1 INDRALAYA SELATAN
+30. Perancangan Arsitektur Jaringan Kampus Menggunakan Metode Network Development Life Cycle 
+31. Pendampingan PenerapanJaringan Komputer Local Area Network Pada PT. Lintas Jaringan Nusantara Layanan Pali
+32. Perancangan Arsitektur Jaringan Komputer Pada Ruang Laboratorium dan Administrasi Pada SMK Negeri 7 Mataram
+33. Penerapan Metode Rekayasa Sistem Jaringan Komputer dalam Merancang Blueprint Jaringan Komputer (Studi Kasus: Hotel Maxone Palembang) 
+34. Network Development Life Cycle (NDLC) Dalam Perancangan Jaringan Komputer Pada  Rumah Shalom Mahanaim 
+35. Perancangan Arsitektur Jaringan Sekolah Menengah Kejuruan Dengan Menerapkan Konsep The Dude Server
+36. PELATIHAN APLIKASI PERMODELAN KOMPUTER BERBASIS RASH MODEL UNTUK ASSESMENT PENDIDIKAN BAGI GURU-GURU DI PONPES NURUL HARAMAIN PUTRA NARMADA
+37. AHP UNTUK PEMODELAN SPK PEMILIHANSEKOLAH TINGGI KOMPUTER
+38. PEMODELAN KIMIA KOMPUTASI
+39. Analisis dan Perancangan Arsitektur Pemodelan Simulasi Dalam Menentukan Calon Mahasiswa Non Aktif
+40. Pemodelan UML Sistem Informasi Geografis Pasar Tradisional Kota Pekanbaru
+41. PEMODELAN PROSES BISNIS AKADEMIK TEKNIK INFORMATIKA UNIVERSITAS TRUNOJOYO DENGAN BUSINESS PROCESS MODELLING NOTATION (BPMN)
+42. Pemodelan Proses Bisnis Pelayanan Aduan Publik pada Dinas Komunikasi dan Informatika Kabupaten Mojokerto dengan Menggunakan Business Process Model Notation (BPMN)
+43. PEMODELAN POTENSI BENCANA TANAH LONGSOR MENGGUNAKAN ANALISIS SIG DI KABUPATEN SEMARANG
+44. PEMODELAN TINGKAT RISIKO BENCANA TSUNAMIPADA PERMUKIMANDI KOTA BENGKULU MENGGUNAKAN SISTEM INFORMASI GEOGRAFIS
+45. Konfigurasi SSL Untuk Meningkatkan Keamanan Web server Pada Program Studi Teknik Informatika Universitas Muhammadiyah Surakarta
+46. PEMODELAN SPASIAL HABITAT BURUNG WALET SARANG PUTIH (COLLOCALIA FUCIPHAGA) DENGAN MENGGUNAKAN SIG (SISTEM INFORMASI GEOGRAFIS) DALAM UPAYA PENGEMBANGAN BUDIDAYA SARANG WALET DI JAWA TENGAH (STUDI KASUS KABUPATEN GROBOGAN DAN KABUPATEN SEMARANG)
+
+47. Perancangan E-Tracer Study berbasis Sistem Cerdas
+48. Penerapan Logika Fuzzy pada Sistem Cerdas
+49. Sistem Cerdas Kontrol Kran Air Menggunakan Mikrokontroler Arduino dan Sensor Ultrasonic
+50. RANCANGAN APLIKASI SISTEM CERDAS PEMBELAJARAN ILMU BANGUN DATAR SD NEGERI 01 CANDIRETNO
+51. Sistem Cerdas Reservasi dan Pemantauan Parkir pada Lokasi Kampus Berbasis Konsep Internet of Things
+52. SISTEM CERDAS PENGELOMPOKAN MAHASISWA BERDASARKAN PREDIKSI PERFORMA BELAJAR DENGAN METODE CASE BASED REASONING
+53. Penerapan Case-Based Reasoning pada Sistem Cerdas untuk Pendeteksian dan Penanganan Dini Penyakit Sapi
+54. SISTEM CERDAS PENYORTIR APEL BERDASARKAN WARNA DAN UKURAN BERBASIS MIKROKONTROLER ARDUINO
+55. PENGEMBANGAN SISTEM CERDAS MENGGUNAKAN PENALARAN BERBASIS KASUS (CASE BASED REASONING) UNTUK DIAGNOSA PENYAKIT AKIBAT VIRUS EKSANTEMA
+56. Peningkatan pengetahuan dan keterampilan pengelola bank sampah melalui sistem cerdas komunikasi pemasaran
+57. Alternatif Pengelolaan Pembelajaran Dalam Jaringan: Google Sites
+58. RANCANG BANGUN ARSITEKTUR JARINGAN KOMPUTER TEKNOLOGI METROPOLITAN AREA NETWORK (MAN) DENGAN MENGGUNAKAN METODE NETWORK DEVELOPMENT LIFE CYCLE (NDLC) (Studi Kasus : Universitas Majalengka)
+59. Penentuan Arsitektur Jaringan Syaraf Tiruan Backpropagation (Bobot Awal dan Bias Awal) Menggunakan Algoritma Genetika
+60. Analisis Arsitektur Jaringan Syaraf Tiruan Untuk Peramalan Penjualan Air Minum Dalam Kemasan
+61. Analisa dan Perancangan Arsitektur Jaringan Balai Teknik Kesehatan Lingkungan dan Penanggulangan Penyakit (BTKLPP) 
+62. Analisa Performansi Controller Pada Arsitektur Jaringan Software Defined Network (SDN)
+63. Desain Arsitektur Jaringan Teknologi Informasi dan Komunikasi untuk Manado Smart city; Studi Kasus Pemerintah Kota Manado 
+64. Implementasi Pencarian Jalur berdasarkan Bandwidth dengan menggunakan Algoritme Dijkstra pada Arsitektur Jaringan Software-Defined Networking (SDN) 
+65. ARSITEKTUR JARINGAN LTE (LONG TERM EVOLUTION) UNTUK MENGATASI BACKHAUL CONNECTION WIFI PADA RURAL AREA DENGAN TEKNOLOGI FOURTH GENERATION (4G)
+66. PEMBELAJARAN BERTINGKAT PADA ARSITEKTUR JARINGAN SARAF FUNGSI RADIAL BASIS
+67. Pemodelan Bahasa
+68. PEMODELAN INDIKATOR TUJUAN PEMBANGUNAN BERKELANJUTAN DI INDONESIA
+69. Kebijakan Vaksinasi COVID-19: Pendekatan Pemodelan Matematika Dinamis Pada Efektivitas Dan Dampak Vaksin Di Indonesia
+70. PEMODELAN USE CASE (UML): EVALUASI TERHADAP BEBERAPA KESALAHAN DALAM PRAKTIK
+71. PEMODELAN UML SISTEM INFORMASI MONITORING PENJUALAN DAN STOK BARANG (STUDI KASUS: DISTRO ZHEZHA PONTIANAK)
+72. Digitalisasi Artefak pada Museum Lampung Menggunakan Teknik Fotogrametri Jarak Dekat untuk Pemodelan Artefak 3D
+73. Pemodelan UML untuk Sistem Informasi Persewaan Alat Pesta
+74. IMPLEMENTASI METODE JECKSON NETWORK QUEUE PADA PEMODELAN SISTEM ANTRIAN BOOKING PELAYANAN CAR WASH (STUDI KASUS: AUTOSHINE CAR WASH LAMPUNG)
+75. Analisis Sentimen dan Pemodelan Topik Pariwisata Lombok Menggunakan Algoritma Naive Bayes dan Latent Dirichlet Allocation 
+76. PENERAPAN METODE WATERFALL PADA PENGEMBANGAN APLIKASI SISTEM INFORMASI JASA DAN PENJUALAN DENGAN PEMODELAN BERORIENTASI OBJEK
+77. Sistem Automasi Utiliti Rumah Menggunakan Suara 
+78. Peningkatan Mutu Pendidikan Melalui Sistem Automasi Akreditasi Nasional Sekolah/ Madrasah 
+79. Implementasi automasi perpustakaan: Studi kasus di Fakultas Adab dan Humaniora Universitas Islam Negeri Imam Bonjol
+80. Automasi Surat Perintah Perjalanan Dinas Berbasis Website Menggunakan Metode User Centered Design
+81. Penggunaan Metode Bioflok dalam Penerapan Sistem Automasi Pemberian Pakan pada Budidaya Lele di Desa Blang PunteutLhokseumawe
+82. AUTOMASI WHITENOISE DALAM SISTEM MONITORING BAYI UNTUK MEMBANTU BAYI TIDUR
+83. Automasi Bilik Sterilisasi Disenfektan Covid-19 dengan Mikrokontrol 
+84. PENGENALAN AUTOMASI PERPUSTAKAAN TERINTEGRASI INLISLITE 
+85. Automasi Hidroponik Indoor Sistem Wick dengan Pengaturan Penyinaran Menggunakan Growing Lights dan Pemberitahuan Nutrisi Berbasis SMS Gateway
+86. PERANCANGAN SISTEM AUTOMASI PADA PENGEMASAN SUSU DALAM BOTOL DENGAN PROGRAMMABLE LOGIC CONTROLLER (PLC) OMRON CP1E TERHADAP PURWARUPA FILLING BOTTLE AND CAPPING MACHINE
+87. Aplikasi Pembelajaran Matematika Interaktif Berbasis Multimedia
+88. Pengembangan Media Pembelajaran Kognitif Berbasis Multimedia di TK Negeri Pembina Padang 
+89. Pengembangan Media Pembelajaran Statistika Berbasis Multimedia 
+90. Pengembangan Media Pembelajaran Matematika Berbasis Multimedia Interaktif menggunakan Adobe Flash Pada Materi Deret Aritmatika 
+91. ANALISIS PERMENDIKBUD RISTEK NO 30 TAHUN 2021 DAN KONSTRUKSI SOSIAL KEKERASAN SEKSUAL DI PERGURUAN TINGGI PERSPEKTIF SOSIOLOGIS
+92. Analisis Sentimen Pro dan Kontra Masyarakat Indonesia tentang Vaksin COVID-19 pada Media Sosial Twitter
+93. Sejarah Kerajaan Turki Usmani
+94. Metode Takhrij Hadits Dalam Menakar Hadits Nabi 
+95. Gharib al-Hadits sebagai Embriologi Syarah Hadits dan Transformasinya
+96. ANALISIS FAKTOR-FAKTOR TERHADAP PENGAMBILAN KEPUTUSAN CALON MAHASISWA UNTUK MEMILIH JURUSAN PENDIDIKAN AGAMA ISLAM
+97. Menertawakan Fobia Komunis di Era Reproduksi Digital
+98. Dampak Toxic Parents dalam Kesehatan Mental Anak
+99. ANALISIS KIAT SUKSES PO DALAM FILM “KUNGFU PANDA
+100. PENENTUAN UMUR FOSIL MANUSIA PURBA DI JAWA BERDASARKAN MAGNETOSTRATIGRAFI
+
+101. Pemodelan Matematika SEIR Penyebaran Penyakit Pneumonia pada Balita dengan Pengaruh Vaksinasi di Kota Makassar
+102. Pemodelan Matematika untuk Prediksi Penyebaran Penyakit Infeksi pada Populasi Menggunakan Pendekatan Jaringan Saraf Tiruan
+103. Pemodelan Dan Simulasi Penyebaran Penyakit Covid-19 Dengan Menggunakan Model Cellular Automata
+104. Simulasi numerik model matematika untuk menganalisis relasi antara korupsi dan dinamika penyebaran penyakit menular
+105. PEMBUATAN DAN PENERAPAN ANIMASI PEMBELAJARAN DENGAN MENGGUNAKAN METODE VILLAMIL - MOLINA
+106. ANALISIS DAN SIMULASI MODEL SUSCEPTIBLE INFECTIVE TREATMENT RECOVERY PADA PENYEBARAN PENYAKIT MALARIA DI KOTA MEDAN
+107. Pemodelan Matematika SEIRS Pada Penyebaran Penyakit Malaria di Kabupaten Mimika
+108. PENERAPAN ANIMASI 3D PADA MEDIA PEMBELAJARAN MENGENAL HURUF VOKAL UNTUK ANAK 2-4 TAHUN
+109. Penerapan Game Development Life Cycle Untuk Video Game Dengan Model Role Playing Game
+110. PENERAPAN GAME-BASED LEARNING SEBAGAI ALTERNATIF SOLUSI MENGAJAR DI KELAS HETEROGEN
+111. Konsep Robot Penjaga Toko Di Kombinasikan Dengan Pengendalian Virtual Reality (VR) Jarak Jauh
+112. PENERAPAN VIRTUAL REALITY MENGGUNAKAN METODE RAPID APPLICATION DEVELOPMENT PADA MEDIA PEMBELAJARAN PENGENALAN SATWA ENDEMIK TAMAN NASIONAL UJUNG KULON
+113. Penerapan Virtual Reality Sebagai Media Pengenalan Batik
+114. PERANCANGAN UI/UX APLIKASI MY CIC LAYANAN INFORMASI AKADEMIK MAHASISWA MENGGUNAKAN APLIKASI FIGMA
+115. PERANCANGAN UI/UX SEMARANG VIRTUAL TOURISM DENGAN FIGMA
+116. PERANCANGAN UI/UX PADA APLIKASI PEMESANAN BUKET MENGGUNAKAN METODE USER CENTERED DESIGN (STUDI KASUS: BOUQUET LAMPUNG)
+117. Implementasi Multimedia Development Life Cycle Pada Aplikasi Pembelajaran Multimedia Interaktif Algoritma dan Pemrograman Dasar Untuk Mahasiswa Berkebutuhan Khusus Berbasis Android
+
+
+
+
+
+
+
+

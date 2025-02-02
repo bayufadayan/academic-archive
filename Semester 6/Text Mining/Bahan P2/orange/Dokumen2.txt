@@ -1,0 +1,8 @@
+Blog Tentang Data Analisis dengan Orange :
+
+<a> DATA ANALYTICS MENGGUNAKAN ORANGE </a>
+sumber : https://www.webillian.com/2019/11/cara-menggunakan-orange-data-mining-untuk-analisis.html
+
+Orange data mining adalah software open source (karena ini software yang kode sumber-nya terbuka untuk diupdate, dipelajari, diubah, dan disebarluaskan). Untuk pengolahan Data Analytics atau Data Mining yang akan anda perlukan menganalisis suatu data. Dengan menggunakan software orange data mining kita dapat menganalisis suatu data penelitian, text berita, text opini masyarakat, text program kerja dan lain sebagainya.
+Jika dibandingkan dengan software Data Mining lainnya, Orange mempunyai keunggul dalam hal visualisasi atau yang biasa anda sebut visual programming dan dengan mudah di pergunakan karena berbasis GUI.
+Di dalam software orange menyajikan banyak widget yang anda letakkan pada canvas / drawing board, kemudian anda hubungkan dengan widget-widget lainnya yang anda perlukan. Dengan media canvas ini maka akan memudahkan pengguna untuk bermain dengan data dan melakukan proses data analytics secara intuitif.

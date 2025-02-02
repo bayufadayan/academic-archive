@@ -1,0 +1,8 @@
+Aplikasi Data Mining :
+
+<a> ORANGE DATA MINING, APLIKASI VISUALISASI DATA GRATIS </a>
+sumber : https://shahibulahyan.wordpress.com/2019/12/08/orange-data-mining-aplikasi-visualisasi-data-gratis/
+
+Beberapa jam yang lalu saya melihat salah satu status seorang dosen di media sosial mengenai Orange Data Mining, sebut saja nama dosen tersebut adalah Pak Dasapta Erwin Irawan (Dosen ITB). Dalam statusnya, beliau menyampaikan bahwa beliau dan teman-temannya sudah berhasil membuat visualisasi data dengan aplikasi Orange Data Mining di dalam menganalisis 50 jurnal bidang geokimia.
+Saya berpikir, barang apa ini? Ko’ bisa ya data-data penelitian divisualisasi? sepertinya aplikasi menarik nih, heee… Akhirnya, saya coba buka website dan link YouTube yang dishare oleh beliau. Sampai berita ini ditulis, saya baru download dan install aplikasi tersebut, belum sampai ke tahap praktek. Insya Allah aplikasi ini akan membantu penelitian saya agar menarik untuk disajikan data-datanya.
+Untuk diketahui, Orange Data Mining adalah sebuah perangkat lunak gratis dan open source yang berfungsi untuk data mining, machine learning, dan data analysis yang dikembangkan oleh GitHub. Selain gratis dan open source, kelebihan dari aplikasi ini  diantaranya adalah data bisa dipresentasikan secara visual, tidak membutuhkan kemampuan programming dalam menjalankannnya, dan support data dalam berbagai format misalnya Excel, online data Google Spreadsheets, dan lain-lain.

@@ -1,0 +1,10 @@
+https://www.google.com/search?q=
+
+Rancang+Bangun+Aplikasi+Pembelajaran+Pengenalan+Alat+Musik+Tradisional+Bolaang+Mongondow+Berbasis+Mobile&oq=Rancang+Bangun+Aplikasi+Pembelajaran+Pengenalan+Alat+Musik+Tradisional+Bolaang+Mongondow+Berbasis+Mobile
+
+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEHMzQzajBqMagCALACAA&sourceid=chrome&ie=UTF-8
+
+contoh : 
+https://www.google.com/search?q=Tai+Goreng&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEHMzQzajBqMagCALACAA&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q={list_judul}&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEHMzQzajBqMagCALACAA&sourceid=chrome&ie=UTF-8

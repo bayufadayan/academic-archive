@@ -1,0 +1,17 @@
+- Rangkuman pengerjaan dan video (3 menit)
+- buat 90 dokumen
+- per dokumen >30 kata
+- analisis text, bisa klasifikasi, klastering, atau lainnya
+- gunakan fitur (genre)
+- rangkuman : 
+	+ Tema dokumen (sinopsis novel dengan genre a,b,c,d)
+	+ source asli document
+	+ metode yang di gunakan
+	+ hasilnya
+	+ kesimpulan
+- video tentang pengumpulan data dan analisis (min. 3 menit)
+- pengumpulan : 
+	+ link gdrive(rangkuman, file orange, dan dokumen)
+	+ link yt
+
+https://unpak.link/UTPTM
