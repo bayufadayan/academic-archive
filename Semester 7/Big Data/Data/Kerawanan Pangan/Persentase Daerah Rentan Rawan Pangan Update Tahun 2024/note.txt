@@ -1,0 +1,3 @@
+berdasarkan https://satudata.badanpangan.go.id/datasetpublications/j76/daerah-rentan-rawan-pangan-2024
+
+Rasio jumlah kabupaten/kota yang pada peta Food Security and Vulnerability Atlas/Peta Ketahanan dan Kerentanan Pangan berada pada kategori prioritas 1 (sangat rentan), 2 (rentan), dan 3 (agak rentan) terhadap total kabupaten/kota yang masuk ke dalam semua kategori  prioritas 1  (sangat rentan), 2 (rentan), 3 (agak rentan), 4 (agak tahan), 5 (tahan), 6 (sangat tahan) dalam periode waktu tertentu.

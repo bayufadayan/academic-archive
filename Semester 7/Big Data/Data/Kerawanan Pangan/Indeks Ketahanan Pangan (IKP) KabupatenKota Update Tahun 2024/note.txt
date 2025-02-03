@@ -1,0 +1,4 @@
+berdasarkan https://satudata.badanpangan.go.id/datasetpublications/frq/ikp-kab-kota-2024
+
+Ukuran dari beberapa indikator yang digunakan untuk menghasilkan skor komposit kondisi ketahanan pangan di suatu wilayah (kab/kota). Nilai IKP dapat menunjukkan capaian ketahanan pangan dan gizi wilayah (kabupaten/kota).
+IKP yang dihasilkan pada masing-masing wilayah (kabupaten/kota) dikelompokkan ke dalam enam kelompok, yaitu Prioritas 1 (Sangat Rentan), Prioritas 2 (Rentan), Prioritas 3 (Agak Rentan), Prioritas 4 (Agak Tahan), Prioritas 5 (Tahan), Prioritas 6 (Sangat Tahan) 

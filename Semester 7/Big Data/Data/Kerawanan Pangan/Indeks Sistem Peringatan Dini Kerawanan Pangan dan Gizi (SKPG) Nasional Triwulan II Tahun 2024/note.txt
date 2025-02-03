@@ -1,0 +1,4 @@
+berdasarkan https://satudata.badanpangan.go.id/datasetpublications/n24/indeks-skpg-nasional-twii-2024
+
+Indeks Sistem Peringatan Dini Kerawanan Pangan dan Gizi (SKPG) adalah Indeks yang menunjukkan situasi kerawanan pangan dan gizi secara simultan pada 3 aspek (ketersediaan, akses, dan pemanfaatan), termasuk indeks komposit dari ketiga aspek tersebut. Indeks dibagi menjadi 3 kategori situasi yaitu daerah rentan (1), waspada (2), dan aman (3).
+

@@ -1,0 +1,7 @@
+https://satudata.badanpangan.go.id/datasetpublications/y2/koefisien-variasi-harga-pangan-tingkat-produsen
+
+Indikator yang digunakan untuk melihat sebaran harga pangan sebagai ukuran stabilitas harga pangan baik antar waktu maupun antar wilayah
+
+https://satudata.badanpangan.go.id/datasetpublications/sh/koefisien-variasi-harga-pangan-tingkat-konsumen
+
+Indikator yang digunakan untuk melihat sebaran harga pangan sebagai ukuran stabilitas harga pangan baik antar waktu maupun antar wilayah

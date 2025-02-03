@@ -1,0 +1,7 @@
+https://satudata.badanpangan.go.id/datasetpublications/nt/jumlah-penduduk-pou-nasional
+
+*Jumlah Penduduk adalah Banyaknya orang yang berdomisili di wilayah Negara Kesatuan Republik Indonesia selama 1 tahun atau lebih dan atau mereka yang berdomisili kurang dari 1 tahun tetapi bertujuan untuk menetap.
+
+*PoU/ Prevalence of Undernourishment/ Prevalensi Ketidakcukupan Konsumsi Pangan adalah proporsi populasi penduduk yang mengalami ketidakcukupan konsumsi energi di bawah kebutuhan minimum untuk dapat hidup sehat dan aktif terhadap populasi penduduk secara keseluruhan pada tahun tertentu.
+
+*Penduduk Undernourish/Jumlah Penduduk yang Mengalami Ketidakcukupan Konsumsi Pangan adalah Jumlah penduduk yang mengalami ketidakcukupan konsumsi energi minimum untuk hidup sehat dan aktif di suatu wilayah (nasional atau provinsi atau kab/kota) pada tahun tertentu
